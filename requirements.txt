@@ -1,0 +1,2 @@
+cx-Freeze==5.1.1
+pypiwin32==220
